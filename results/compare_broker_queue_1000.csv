@@ -1,0 +1,2 @@
+sent,stored,rejected,lost,expected_stored,accurate,publish_sec,elapsed_sec,msgs_per_sec
+50000,32958,1785,15257,47495,False,22.9,33.94,1473

@@ -1,0 +1,4 @@
+sent,stored,rejected,lost,expected_stored,accurate,publish_sec,elapsed_sec,msgs_per_sec
+1000,955,45,0,955,True,0.35,0.65,1530
+10000,9497,503,0,9497,True,5.63,6.21,1609
+50000,47495,2505,0,47495,True,24.64,33.07,1512
